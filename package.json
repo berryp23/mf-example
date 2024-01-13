@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "start": "pnpm --parallel start",
-    "build": "pnpm build",
+    "build": "pnpm --parallel build",
     "serve": "pnpm --parallel serve",
     "clean": "pnpm --parallel clean"
   },
